@@ -1,4 +1,7 @@
 type: LogicBlock
+name: "reinforced-microprocessor"
+description: "A reinforced logic processor capable of executing automated control instructions."
+details: "Adapted for Erekir's hostile environments, it provides stable logic control for basic industrial and defensive systems."
 requirements: [ "beryllium/90", "graphite/50", "silicon/50"]
 instructionsPerTick: 2
 category: logic
