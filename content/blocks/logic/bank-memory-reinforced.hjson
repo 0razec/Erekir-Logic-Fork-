@@ -1,7 +1,7 @@
 type: MemoryBlock
-name: "reinforced-memory-cell"
-description: "Reinforced storage unit capable of retaining temporary data for logic processors."
-details: "Built for hostile industrial environments, it ensures stable data retention and supports complex automated operations on Erekir."
+name: "reinforced-memory-bank"
+description: "High-capacity reinforced storage designed for advanced logic systems and industrial automation."
+details: "Engineered to handle massive volumes of operational data, this memory bank supports large-scale logic networks across the hostile industrial sectors of Erekir."
 size: 2
 requirements: [ "beryllium/30", "graphite/80", "silicon/80", "phase-fabric/30"]
 memoryCapacity: 512
