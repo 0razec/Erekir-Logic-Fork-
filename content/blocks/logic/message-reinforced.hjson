@@ -1,4 +1,7 @@
 type: MessageBlock
+name: "reinforced-message"
+description: "Displays messages for communication, alerts, and operational reminders."
+details: "Widely used in industrial facilities to transmit technical information, schematic notes, and automated system warnings."
 category: logic
 requirements: [ "beryllium/5", "graphite/5"]
 research: "erekir-logic-switch-reinforced"
