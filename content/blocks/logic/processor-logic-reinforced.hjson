@@ -1,4 +1,7 @@
 type: LogicBlock
+name: "reinforced-logic-processor"
+description: "Advanced reinforced logic processor with improved execution speed and stability."
+details: "Optimized for industrial automation, it efficiently manages complex logic operations under Erekir's harsh operational conditions."
 size: 2
 requirements: [ "tungsten/320", "graphite/60", "silicon/80", "thorium/50"]
 range: 176
