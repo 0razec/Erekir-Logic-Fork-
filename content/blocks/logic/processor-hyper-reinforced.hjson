@@ -1,4 +1,7 @@
 type: LogicBlock
+name: "hyper-reinforced-processor"
+description: "An ultra-fast reinforced logic processor built for advanced automation systems."
+details: "Developed for Erekir's extreme environments, it powers complex industrial networks with exceptional speed and computational stability."
 size: 3
 requirements: [ "tungsten/450", "thorium/75", "silicon/150", "surge-alloy/50"]
 range: 336
